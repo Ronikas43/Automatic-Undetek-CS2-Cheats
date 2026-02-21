@@ -1,4 +1,6 @@
 This open-source program will automatically let you access Undetek (free edition) without having to copy and paste the PIN code
 
 Instructions:
-Download the latest release of the project and double click the "Double Click This to Start.bat"
+1. Download The Latest Release of The Source Code
+2. Extract it
+3. Then Double Click on the "Double Click This to Start.bat"
