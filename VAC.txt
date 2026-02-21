@@ -1,0 +1,5 @@
+VAC now includes an advanced anti-cheat system that analyses gameplay to detect and convict cheaters.
+
+Play smart—avoid obvious cheating unless you're prepared to risk a ban.
+
+While we work to keep our cheat files undetected, your gameplay behaviour is your responsibility.

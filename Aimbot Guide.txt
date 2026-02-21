@@ -1,0 +1,30 @@
+--How to use the aimbot--
+
+	To use our aimbot in game, you must hold the aimbot keybind while shooting an enemy.
+
+
+
+--How to set the aimbot keybind--
+
+	Press the DOWN arrow on the keyboard to the "Aimbot Key" in the menu and then press RIGHT arrow key on your keyboard. Now press the key or button you want to use for the aimbot keybind.
+
+	To activate the aimbot in game, please hold this keybind while shooting.
+
+
+--Spotted--
+	Spotted is the poor mans visbility checks, the ESP will change color when the enemy is visible but its "slow" because it's using spotted.  Buy our premium hack for fast vis checks and disable the spotted if its not targeting enemies fast enough.
+
+
+--Aimbot settings--
+
+	Low smooth = fast aimbot
+	High smooth = slow aimbot
+
+	Legit players typically use a high as possible smooth setting, but if you set it too high you might find the aimbot is too slow.  Find a nice balance for your mouse sensitivity and aiming ability.
+	Mouse sensitivity in CS2 can affect aimbot speed.  If the aimbot feels slow, increase your mouse sensitivity in CS2 settings.
+
+
+
+
+
+If you cannot change the aimbot keybind because its "stuck" on a specific key, it likely means our app is conflicting with other open software. Try closing open software in the background or restart your PC.
