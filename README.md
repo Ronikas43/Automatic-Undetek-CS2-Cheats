@@ -6,4 +6,4 @@ Instructions:
 3. Then Double Click on the "Double Click This to Start.bat"
 
 
-Made with Claude Sonnet 4.6 and Chatgpt 5.2
+Code made with Claude Sonnet 4.6 and Chatgpt 5.2
