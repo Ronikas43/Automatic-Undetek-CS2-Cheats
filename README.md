@@ -4,3 +4,6 @@ Instructions:
 1. Download The Latest Release of The Source Code
 2. Extract it
 3. Then Double Click on the "Double Click This to Start.bat"
+
+
+Made with Claude Sonnet 4.6 and Chatgpt 5.2
