@@ -14,3 +14,5 @@ Credits:
 https://undetek.com/
 
 Code made with Claude Sonnet 4.6 and Chatgpt 5.2
+
+USE THIS AT YOUR OWN RISK
