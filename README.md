@@ -13,6 +13,6 @@ Requirements:
 Credits:
 https://undetek.com/
 
-Code made with Claude Sonnet and Chatgpt
+Code made with Claude Sonnet and ChatGPT
 
 USE THIS AT YOUR OWN RISK
