@@ -3,7 +3,7 @@
 	Open CS2 to the main menu.
 	Make sure Steam Overlay is enabled and working in CS2. (press SHIFT + TAB in CS2 to confirm its working.)
 	Move the cheat file (.exe) out of .zip download and put it into a folder somewhere.
-	Double click the Start.bat file
+	Double click the "Double Click This to Start.bat" file
 	Wait for the cheat to inject and the cheat loader to close.
 	Press INSERT to open the menu.
 	You can now join a game and play.
@@ -33,4 +33,5 @@ If you cannot see the watermark it means there was a problem with gameoverlay or
 3. Turn off smartscreen (app and browser control)
 4. Turn UAC to a low setting.
 5. Turn off Valorant Anticheat.
+
 6. Turn off FACEIT Anticheat.
