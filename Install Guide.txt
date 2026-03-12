@@ -33,5 +33,4 @@ If you cannot see the watermark it means there was a problem with gameoverlay or
 3. Turn off smartscreen (app and browser control)
 4. Turn UAC to a low setting.
 5. Turn off Valorant Anticheat.
-
 6. Turn off FACEIT Anticheat.
