@@ -8,7 +8,6 @@ Instructions:
 Requirements:
 1. Google Chrome
 2. Python 3.13.12 or Higher
-3. Download The Original Undetek (Free Edition)
 
 Credits:
 https://undetek.com/
